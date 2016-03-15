@@ -22,8 +22,8 @@ A few notes:
 
 4) Always git pull at the beginning of any work you do. Otherwise, you may begin working on a file only to realize later that someone else in the group already edited that file.
 
-5) A possibility in git is to work on multiple "branches" if certain members of the group are working on something completely different than other members of the group. Branches typically denote parallel components of work. For example, I could be working on a powerpoint presentation for some project, and other people in my group could be simultaneously working on a word document summarizing our project to turn into our professor. In this case, I could make a different branch for each of these two components, as they don't necessarily depend on one another. Making these two branches means half my group works on the powerpoint and half works on the Word doc; there's no need to wait for one to be completed before starting the other.
-
+5) A possibility in git is to work on multiple "branches" if certain members of the group are working on something completely different than other members of the group. Branches typically denote parallel components of work. For example, if we were making a website, one half of the group could set up a branch to work on one page of the website and the other half could set up another branch to work on another page.
+ 
 All this stuff probably sounds fairly complicated, and I'm sure there are parts that I missed. If you google anything git related, you will definitely find resources that will better help you understand the process. Overall, we'll mostly just be using add, commit, push, and pull, so I wouldn't worry too much. I also realize that git may mostly seem unnecessary, but I guarantee we will be changing code multiple times over the course of this project. No alternative will be more efficient than git; I've done the old email-files-back-and-forth deal and have learned my lesson. Let me know if you have any questions!
 
 * Also, I'm not sure how some of the mechanics of the command line work on Windows computers. I'm sure resources online will help.
