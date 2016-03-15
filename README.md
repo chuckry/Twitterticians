@@ -27,3 +27,10 @@ A few notes:
 All this stuff probably sounds fairly complicated, and I'm sure there are parts that I missed. If you google anything git related, you will definitely find resources that will better help you understand the process. Overall, we'll mostly just be using add, commit, push, and pull, so I wouldn't worry too much. I also realize that git may mostly seem unnecessary, but I guarantee we will be changing code multiple times over the course of this project. No alternative will be more efficient than git; I've done the old email-files-back-and-forth deal and have learned my lesson. Let me know if you have any questions!
 
 * Also, I'm not sure how some of the mechanics of the command line work on Windows computers. I'm sure resources online will help.
+
+___________________________________
+Just wanted to add that the code uses a specific OAuth key and token to run the API. 
+In order to run it, go to https://apps.twitter.com, then create a new app, in URL put https://www.placeholder.com, then leave the rest blank. Once it is made, you can go to the app, Keys and Access Tokens, and input these into lines 80 and 81 of final_twitter_works.py. 
+Also make sure to install pip and oauth for it to work. (google how to install pip) and then do pip install requests_oauthlib.
+If you need help, let me know and we can work on it together. Code also needs to be tweaked to access Tweet content, not just hashtags.
+- Jose
