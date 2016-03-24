@@ -42,9 +42,9 @@ class Post():
         for tag in tag_list:
             if tag.lower() in pos_ws:
                word_count+=1
-        return word_count    
-        
-         
+        return word_count
+
+
     def neg_tags(self, tag_list):
         word_count=0
         for tag in tag_list:
@@ -314,15 +314,18 @@ search_score=[]
 pos_search=[]
 neg_search=[]
 
-for name in names.readlines(): #for each name
+for name in names.readlines()[0]: #for each name
     post_insts= []
-    r = oauth.get("https://api.twitter.com/1.1/search/tweets.json", params = {'q': name, 'count' : 100})  #get 100 tweets
+    r = oauth.get("https://api.twitter.com/1.1/search/tweets.json", params = {'q': name, 'count' : 1})  #get 10 tweets
     res = r.json()
+
+    print pretty(res['text'])
     
     try:
         for post in res['statuses']: #for every post                        #for every Tweet in the 100
             x= Post(post) #create an instance                               #create an instance of each one to get hashtag and score(s)
             post_insts.append(x) #append to list of instances               #we should have a list of 100 instances
+           
     except:
         print "error"
     
@@ -372,8 +375,12 @@ print "Testing ...\n"
 
 for post in res['statuses']:
     class_Test= Post(post)
-test.testEqual(type(class_Test.pos_tags([])), type(0))
-#test.testEqual()
+    test.testEqual(type(class_Test.pos_tags([])), type(0))
+    #test.testEqual()
+
+for post in res['statuses']:
+    print pretty(res['statuses'][1]['text'])
+
         
 out.close()
 names.close()    
@@ -401,4 +408,3 @@ outfile.close()
 
          
 
-    
