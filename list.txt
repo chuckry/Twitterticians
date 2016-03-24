@@ -1,0 +1,507 @@
+
+
+#MichaelJordan
+***************************
+MichaelJordan 10
+Nike 2
+bulls 2
+AirJordan 2
+Jordan 2
+onsale 1
+Collectible 1
+SteveClifford 1
+Deals 1
+Collectibles 1
+Discount 1
+Basketball 1
+Card 1
+NBA 1
+Bulls 1
+Jersey 1
+
+
+#BabeRuth
+***************************
+BabeRuth 8
+QOTD 3
+life 3
+success 3
+Redsox 3
+wisdom 3
+northconway 3
+Yankees 3
+businessquotes 2
+learntofail 2
+nevergiveup 2
+quotes 2
+baberuth 2
+JackieRobinson 1
+LouGehrig 1
+
+
+#MuhammadAli
+***************************
+MuhammadAli 9
+Legend 4
+Boxer 4
+muhammadali 1
+london 1
+northgreenwich 1
+gambling 1
+underground 1
+expo 1
+legend 1
+greatest 1
+
+
+#JimBrown
+***************************
+JimBrown 9
+citations 3
+FootballPlayer 2
+BringItHomeToCleveland 2
+ClevelandBrown 2
+GoBrowns 2
+MalcolmX 1
+jimbrown 1
+25thHour 1
+halftime 1
+Oldboy 1
+football 1
+SheHateMe 1
+ThursdayNightFootball 1
+NFL 1
+ChiRaq 1
+throwback 1
+spreaker 1
+quotation 1
+JungleFever 1
+InsideMan 1
+nfl 1
+barrysanders 1
+Bad25 1
+Cleveland 1
+
+
+#WayneGretzky
+***************************
+WayneGretzky 9
+waynegretzky 1
+michaelscott 1
+MarkMessier 1
+hustle 1
+
+
+#JesseOwens
+***************************
+JesseOwens 10
+Race 2
+RaceMovie 2
+MoreThanGold 1
+KeynoteSpeaker 1
+race 1
+magicjohnsontheaters 1
+BerlinOlympics 1
+movie 1
+BruceJenner 1
+Holocaust 1
+blackhistorymonth 1
+sports 1
+JeremyIrons 1
+trackandfield 1
+holohoax 1
+nyc 1
+Alabama 1
+Harlem 1
+ItsALLBSbook 1
+
+
+#JimThorpe
+***************************
+JimThorpe 9
+job 5
+Hiring 4
+restaurantlife 2
+INXS 1
+FacilitiesMgmt 1
+JIMTHORPE 1
+Labor 1
+Writing 1
+
+
+#WillieMays
+***************************
+WillieMays 10
+MLB 3
+Hotline 3
+SFGiants 3
+Giants 1
+sportsartist 1
+SanFrancisco 1
+citation 1
+Baseballart 1
+
+
+#JackNicklaus
+***************************
+JackNicklaus 7
+jacknicklaus 3
+citations 2
+pebblebeach 2
+birdie 1
+aphorism 1
+golf 1
+sacredground 1
+favoritehole 1
+usga 1
+famousshots 1
+stunning_shots 1
+18th 1
+thegolfchannel 1
+pure 1
+onlyinpinehurst 1
+callaway 1
+hole 1
+pinehurst 1
+
+
+#BabeDidrikson
+***************************
+BabeDidrikson 1
+
+
+#JoeLouis
+***************************
+JoeLouis 9
+BrownBomber 8
+boxing 1
+louisvsschmeling 1
+brownbomber 1
+joelouis 1
+history 1
+jointhefight 1
+
+
+#CarlLewis
+***************************
+CarlLewis 9
+MikePowell 2
+atletismo 2
+athletics 2
+SFIANHTF16 2
+urheiluvisa 1
+disrespectful 1
+urheiluseurat 1
+visailu 1
+Olimpiadi 1
+carllewis 1
+prick 1
+tietovisa 1
+LosAngeles1984 1
+
+
+#WiltChamberlain
+***************************
+WiltChamberlain 8
+thisis50 1
+fredmoney 1
+WILTCHAMBERLAIN 1
+quotes 1
+GUCCIMANE 1
+youngbuck 1
+cassidy 1
+djthoro 1
+wiltchamberlain 1
+
+
+#HankAaron
+***************************
+HankAaron 10
+MLB 4
+Hotline 4
+MLBLegends 1
+citation 1
+BabeRuth 1
+
+
+#JackieRobinson
+***************************
+JackieRobinson 6
+jackierobinson 4
+mlb 1
+Georgia 1
+panthernation 1
+flagfootball 1
+RIP 1
+Cario 1
+politics 1
+HappyBirthday 1
+blackhistorymonth 1
+Ymca 1
+BabeRuth 1
+NYC 1
+panthers 1
+documentary 1
+Americanhistory 1
+MajorLeagueBaseball 1
+
+
+#TedWilliams
+***************************
+TedWilliams 10
+quote 2
+GOAT 2
+MLB 1
+pennantchase 1
+SplendidSplinter 1
+Phillies 1
+FighterPilot 1
+MLB300 1
+citations 1
+Twins 1
+RedSox 1
+Yankees 1
+USMC 1
+KirbyPuckett 1
+
+
+#MagicJohnson
+***************************
+magicjohnson 6
+MagicJohnson 4
+nba 2
+lakers 2
+airjordan 1
+quotes 1
+ervinjohnson 1
+ForPeetesSake 1
+michaeljordan 1
+SpreadPositivity 1
+forpeetessake 1
+LosAngeles 1
+richgang 1
+Lakers 1
+rodneyPeete 1
+PeeteHouse 1
+quotation 1
+russellwestbrook 1
+weapon 1
+crazycreolemommychronicles 1
+mj 1
+mj23 1
+teamjordan 1
+
+
+#BillRussell
+***************************
+BillRussell 7
+MarchMadness 2
+aphorism 1
+NCAAChampion 1
+TB 1
+GoldMedal 1
+MSG 1
+BILLRUSSELL 1
+NBAChampion 1
+sportstalkingheads 1
+
+
+#MartinaNavratilova
+***************************
+MartinaNavratilova 9
+quote 1
+tennis 1
+martinanavratilova 1
+citations 1
+LaQuintaResortandSpa 1
+
+
+#TyCobb
+***************************
+MLB 7
+TYCOBB 6
+Hotline 6
+TyCobb 4
+citations 1
+baseball 1
+
+
+#GordieHowe
+***************************
+GordieHowe 5
+gordiehowe 5
+homesick 1
+LSC 1
+detroitvipers 1
+NHL 1
+OldMexico 1
+JaromirJagr44 1
+casebreak 1
+stemcells 1
+detroitshit 1
+BOOM 1
+SexDrugsandRocknRoll 1
+DueceFreight 1
+Myers 1
+Gretzky 1
+
+
+#JoeDiMaggio
+***************************
+JoeDiMaggio 7
+joedimaggio 3
+MarilynMonroe 3
+PR 1
+ravit 1
+newyorkyankees 1
+mlb 1
+ESPN 1
+dimaggio 1
+hof 1
+citations 1
+quote 1
+yankees 1
+TommyLaSorda 1
+onthisday 1
+
+
+#JackieJoynerKersee
+***************************
+JackieJoynerKersee 9
+quote 2
+citations 2
+quotations 1
+quotes 1
+roadtorio 1
+citation 1
+Quotes 1
+whm 1
+jackiejoynerkersee 1
+becauseofthemwecan 1
+
+
+#SugarRayRobinson
+***************************
+SugarRayRobinson 7
+VictoryDefeat 5
+StyleandSwagger 5
+MuhammadAli 2
+BEATSOFHELL 2
+Champion 1
+TheBest 1
+Boxing 1
+Boxingquotes 1
+Quotes 1
+Memes 1
+Legend 1
+sugarrayrobinson 1
+
+
+#JoeMontana
+***************************
+joemontana 5
+JoeMontana 4
+sanfrancisco49ers 2
+niners 2
+wichycamacho 2
+lilysmith 2
+joecool 2
+veranocultural 2
+jerryrivera 2
+sanfrancisco 2
+49ers 2
+acp 2
+sf 2
+rookie 1
+joeMontana 1
+audiodopedealer 1
+Quarterback 1
+realtrapshit 1
+aphorism 1
+Samsung 1
+football 1
+GDC16 1
+NFL 1
+jerryRivera 1
+quotations 1
+
+
+#KareemAbdulJabbar
+***************************
+KareemAbdulJabbar 7
+kareemabduljabbar 3
+lakers 2
+nba 2
+BruceLee 1
+brandonlee 1
+defense 1
+quotations 1
+flashbackfriday 1
+basketballquotes 1
+
+
+#JerryRice
+***************************
+JerryRice 6
+jerryrice 3
+H50 2
+Hawaii50 2
+Broncos 1
+Mississippi 1
+nfl 1
+victusvincimus 1
+PeytonManning 1
+football 1
+beatsofhell 1
+quotes 1
+game 1
+citations 1
+SB50 1
+ONLYCHAMPS 1
+legend 1
+
+
+#RedGrange
+***************************
+RedGrange 2
+redgrange 2
+legendary 2
+quotations 1
+
+
+#ArnoldPalmer
+***************************
+ArnoldPalmer 6
+arnoldpalmer 4
+APinv 3
+ArniesArmy 3
+pga 2
+BayHill 2
+sunday 2
+cigars 2
+toronto 1
+sundaybrunch 1
+torontophoto 1
+torontolife 1
+kindahateu 1
+3oz 1
+cigarpress 1
+
+
+#LarryBird***************************
+LarryBird 5
+larrybird 4
+GoldenEra 3
+DrJ 3
+Celtics 3
+Sixers 3
+dad 2
+ballerstatus 2
+im31 1
+boston 1
+walkup 1
+trapstar 1
+music 1
+imaloser 1
+larryBird 1
+lightgreenjacket 1
