@@ -10,6 +10,10 @@ import pandas as pd
 import vincent as v
 import csv
 import numpy as np
+import codecs
+import sys
+reload(sys)
+sys.setdefaultencoding('utf8')
 stemmer = nltk.stem.PorterStemmer()
 
 consumer_key = 'V0W3LRpP3JNun2ABqneoj6mUH'
@@ -70,7 +74,7 @@ with open("Bernie_amilly_rawtweets.json", 'rU') as json_file:
         twitter_data.append(json.loads(line))
 
 def tweet_filter(tweet, stemmer):
-    tweet = tweet.strip()
+    tweet = tweet.decode('utf-8').strip()
     tweet = tweet.lower()
     #i['tweet'] = re.sub(r'https?://\w+\W\w+/\w+.[a-zA-Z0-9]/?[a-zA-Z0-9]\b', 'URL ', i['tweet'])
     tweet = re.sub(r'(https?:\\|https?://|https?:|http:?)[^\s]+', 'URL ', tweet)
@@ -103,7 +107,7 @@ def extract_feature(text, size = 1, size2 = 2):
     return features
 
 def load_training_data():
-    csv_read = csv.reader(open('Small-Data.csv', 'rb'), delimiter =',')
+    csv_read = csv.reader(codecs.open('Sentiment_Analysis_Dataset.csv', 'rb'), delimiter =',')
     csv_read.next()
     label = []
     for tweet in csv_read:
@@ -118,14 +122,14 @@ def load_training_data():
 
 
 
-    train, test = label[:len(label)*0.9], label[len(label)*0.1:]
+    train, test = label[:int(len(label)*0.9)], label[int(len(label)*0.1):]
     print nltk.classify.accuracy(nltk.NaiveBayesClassifier.train(label), test)
     classifier = nltk.NaiveBayesClassifier.train(label)
     return classifier
 
 def sentiment_analysis(classifier):
-    sfp = open('Bernie_amilly_labelledtweets.json', 'w')
-    tweets = open('Bernie_amilly_cleanedtweets.json')
+    sfp = codecs.open('Bernie_amilly_labelledtweets.json', 'w')
+    tweets = codecs.open('Bernie_amilly_cleanedtweets.json')
     for tweet in tweets:
         tweet = json.loads(tweet)
         label = extract_feature(tweet['tweet'])
@@ -133,7 +137,7 @@ def sentiment_analysis(classifier):
         tweet['sentiment'] = classed
         sfp.write(json.dumps(tweet) + '\n')
 
-clean = open('Bernie_amilly_cleanedtweets.json', 'w')
+clean = codecs.open('Bernie_amilly_cleanedtweets.json', 'w')
 for line in twitter_data:
     line['tweet'] = tweet_filter(line['tweet'], stemmer)
     clean.write(json.dumps(line) + '\n')
@@ -175,4 +179,4 @@ clean.close()
 
 sentiment_analysis(load_training_data())
 
-time_series_tweets()
+# time_series_tweets()
