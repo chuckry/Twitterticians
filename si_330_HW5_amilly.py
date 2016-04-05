@@ -53,7 +53,7 @@ class listener(tweepy.StreamListener):
 #Specify time-limits to Twitter streaming listener
 if __name__ == '__main__':
     #Will listen Twitter stream for 1200 seconds
-    l = listener(start_time, time_limit=60)
+    l = listener(start_time, time_limit=20)
     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
     auth.set_access_token(access_token, access_token_secret)
 
@@ -103,7 +103,7 @@ def extract_feature(text, size = 1, size2 = 2):
     return features
 
 def load_training_data():
-    csv_read = csv.reader(open('Sentiment_Analysis_Dataset.csv', 'rb'), delimiter =',')
+    csv_read = csv.reader(open('Small-Data.csv', 'rb'), delimiter =',')
     csv_read.next()
     label = []
     for tweet in csv_read:
